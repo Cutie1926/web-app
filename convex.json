@@ -1,0 +1,4 @@
+{
+  "authInfo": "clerk",
+  "authRoleEnvVar": "CLERK_SECRET_KEY"
+}

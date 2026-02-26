@@ -1,0 +1,12 @@
+Next.js lock file is busy and port 3000 is already in use. Continuing with lock recovery and port detection.
+Convex local backend already running on port 3210. Reusing existing backend.
+Port 3000 is busy. Started Next.js dev server on port 3006 instead.
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3006
+- Network:       http://192.168.56.1:3006
+- Environments: .env.local
+
+✓ Starting...
+⚠ Turbopack's filesystem cache has been deleted because we previously detected an internal error in Turbopack. Builds or page loads may be slower as a result.
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+✓ Ready in 2.8s
